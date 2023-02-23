@@ -1,0 +1,4 @@
+This is a sample file which is called file.txt
+Another sample text statement
+def push_accelerator(node_info):
+void push_accelerator(int node_id){};
